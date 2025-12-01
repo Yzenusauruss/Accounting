@@ -1,0 +1,34 @@
+
+@import "tailwindcss";
+body, html {
+
+  box-sizing: border-box;
+}
+/* allow the app root to occupy full screen */
+html, body, #root {
+  height: 100%;
+}
+
+/* small niceties */
+body {
+  background-color: #f8fafc;
+}
+
+.background {
+  background-image: url('Images/img.png');
+  background-size: cover;     /* Makes the image fill the screen */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat;
+  height: 100vh; /* Full screen height */
+  width: 100%;
+}
+
+
+.background2 {
+  background-image: url('Images/img_1.png');
+  background-size: cover;     /* Makes the image fill the screen */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat;
+  height: 100vh; /* Full screen height */
+  width: 100%;
+}
