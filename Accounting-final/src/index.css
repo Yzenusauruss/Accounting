@@ -14,14 +14,7 @@ body {
   background-color: #f8fafc;
 }
 
-.background {
-  background-image: url('Images/img.png');
-  background-size: cover;     /* Makes the image fill the screen */
-  background-position: center; /* Centers the image */
-  background-repeat: no-repeat;
-  height: 100vh; /* Full screen height */
-  width: 100%;
-}
+
 
 
 .background2 {

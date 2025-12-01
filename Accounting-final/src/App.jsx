@@ -59,8 +59,6 @@ export default function App() {
                         </Routes>
                     </main>
                 </div>
-
-                <div className="absolute inset-0 background bg-cover bg-center rounded opacity-20 pointer-events-none"></div>
             </div>
         </Router>
     );
